@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammad Nouman Hayat</h1>
+<h1 align="center">Hi 👋, I'm  Nouman Hayat</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouman-hayat&label=Profile%20views&color=0e75b6&style=flat" alt="nouman-hayat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nauman__hayat" target="blank"><img src="https://img.shields.io/twitter/follow/nauman__hayat?logo=twitter&style=for-the-badge" alt="nauman__hayat" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nouman__hayat" target="blank"><img src="https://img.shields.io/twitter/follow/nouman__hayat?logo=twitter&style=for-the-badge" alt="nouman__hayat" /></a> </p>
 
 - 🔭 I’m currently working on **Nerozon**
 
