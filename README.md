@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://nouman-hayat.github.io/portfolio/](https://nouman-hayat.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://noumanhayat.netlify.app/](https://noumanhayat.netlify.app/)
 
 - 💬 Ask me about **React js ,Node Js , Wordpress**
 
 - 📫 How to reach me **m.nouman.hayat.dev@gmail.com**
 
-- 📄 Know about my experiences [https://nouman-hayat.github.io/portfolio/](https://nouman-hayat.github.io/portfolio/)
+- 📄 Know about my experiences [https://noumanhayat.netlify.app/](https://noumanhayat.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
