@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm  Nouman Hayat</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
+<h3 align="center">A passionate Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouman-hayat&label=Profile%20views&color=0e75b6&style=flat" alt="nouman-hayat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nouman__hayat" target="blank"><img src="https://img.shields.io/twitter/follow/nouman__hayat?logo=twitter&style=for-the-badge" alt="nouman__hayat" /></a> </p>
 
-- 🔭 I’m currently working on **Nerozon**
+- 🔭 I’m currently working on **Website and Mobile Application Development**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://nouman-hayat.github.io/portfolio/](https://nouman-hayat.github.io/portfolio/)
 
-- 💬 Ask me about **React js ,PHP , Wordpress**
+- 💬 Ask me about **React js ,Node Js , Wordpress**
 
 - 📫 How to reach me **m.nouman.hayat.dev@gmail.com**
 
